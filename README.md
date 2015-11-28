@@ -1,8 +1,8 @@
-## React Play
+# React Play
 
 Adaptation of my 'Static Boilerplate' that includes React.
 
-# Technologies
+## Technologies
 - Jade
 - Foundation/Sass
 - CoffeeScript
@@ -11,12 +11,12 @@ Adaptation of my 'Static Boilerplate' that includes React.
 - Babel
 - React
 
-# Install
+## Install
 - `npm install`
 - `bower install`
 
-# Run
+## Run
 `gulp`, or `gulp serve`
 
-# Adding Libraries
+## Adding Libraries
 I've added jQuery and bounce.js to demonstrate how to add libraries. Just download the library using `bower install`, and then add the path to the list in the libraries task in gulpfile.js
