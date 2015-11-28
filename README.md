@@ -1,6 +1,6 @@
-## Static Boilerplate
+## React Play
 
-This is a boilerplate I wrote because I couldn't wrap my head around all the components included in most Yeoman/Brunch boilerplates, and also to help me become a little more intimate with Gulp. 
+Adaptation of my 'Static Boilerplate' that includes React.
 
 # Technologies
 - Jade
@@ -8,6 +8,8 @@ This is a boilerplate I wrote because I couldn't wrap my head around all the com
 - CoffeeScript
 - Gulp
 - BrowserSync (for auto-refresh and stats)
+- Babel
+- React
 
 # Install
 - `npm install`
