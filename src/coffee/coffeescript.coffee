@@ -1,0 +1,3 @@
+$ ->
+	$(".narrative").click ->
+		alert "clicked"
