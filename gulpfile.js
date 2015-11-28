@@ -82,7 +82,9 @@ gulp.task('libraries', function() {
 	gulp.src([
 		// two example libraries, but add those you need
 		'./bower_components/jquery/dist/jquery.min.js',
-		'./bower_components/bounce.js/bounce.min.js'
+		'./bower_components/bounce.js/bounce.min.js',
+		'./bower_components/react/react.js',
+		'./bower_components/react/react-dom.js'
 	])
 	.pipe(concat('libraries.js'))
 	.pipe(gulp.dest('./public/js'));
